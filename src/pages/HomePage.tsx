@@ -257,7 +257,7 @@ const HomePage = () => {
                 </Button>
               </Link>
               <a
-                href="https://wa.me/918012345678"
+                href="https://wa.me/919884806610"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -348,7 +348,7 @@ const HomePage = () => {
               </Button>
             </Link>
             <a
-              href="https://wa.me/918012345678"
+              href="https://wa.me/919884806610"
               target="_blank"
               rel="noopener noreferrer"
             >

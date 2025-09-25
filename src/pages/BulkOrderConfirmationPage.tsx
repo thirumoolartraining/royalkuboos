@@ -305,8 +305,8 @@ const BulkOrderConfirmationPage = () => {
                   <div className="space-y-2">
                     <div className="flex items-center gap-2">
                       <Phone size={14} className="text-primary" />
-                      <a href="tel:+918012345678" className="text-sm hover:text-primary">
-                        +91 80123 45678
+                      <a href="tel:+919884806610" className="text-sm hover:text-primary">
+                        +91 98848 06610
                       </a>
                     </div>
                     <div className="flex items-center gap-2">
